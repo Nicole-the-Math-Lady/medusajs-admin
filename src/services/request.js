@@ -1,6 +1,6 @@
 import axios from "axios"
 
-let baseURL = "http://localhost:9000"
+let baseURL = "http://medusadev-env.eba-xgxfqmzj.us-east-1.elasticbeanstalk.com"
 
 // deprecated
 if (process.env.GATSBY_STORE_URL) {
