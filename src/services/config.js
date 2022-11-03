@@ -1,6 +1,6 @@
 import { QueryClient } from "react-query"
 
-let medusaUrl = "http://medusadev-env.eba-xgxfqmzj.us-east-1.elasticbeanstalk.com"
+let medusaUrl = "https://test.localsatsang.com"
 
 // deprecated
 if (process.env.GATSBY_STORE_URL) {
